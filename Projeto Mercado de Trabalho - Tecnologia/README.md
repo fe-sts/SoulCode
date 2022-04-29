@@ -1,8 +1,8 @@
 ## Equipe
-[Daiane Silva de Abreu Benedito](https://www.linkedin.com/in/daiane-silva-de-abreu-benedito-01b41b13a/)
-[Felipe Rinaldini Santos](https://www.linkedin.com/in/felipe-rinaldini-santos/)
-[José Teles](https://www.linkedin.com/in/jose-henrique-teles/)
-[Talita Dwyer](https://www.linkedin.com/in/talitadwyer/)
+- [Daiane Silva de Abreu Benedito](https://www.linkedin.com/in/daiane-silva-de-abreu-benedito-01b41b13a/)
+- [Felipe Rinaldini Santos](https://www.linkedin.com/in/felipe-rinaldini-santos/)
+- [José Teles](https://www.linkedin.com/in/jose-henrique-teles/)
+- [Talita Dwyer](https://www.linkedin.com/in/talitadwyer/)
 
 ## Apresentação
 [Link para Apresentação completa do Projeto](https://github.com/fe-sts/SoulCode/blob/main/Projeto%20Mercado%20de%20Trabalho%20-%20Tecnologia/Apresenta%C3%A7%C3%A3o_Slides_Canva_Projetos_Final_Mercado_de_Trabalho.pdf)
@@ -82,4 +82,24 @@
 
 ## Resultados e Conclusões: DataStudio
 - [Apresentação de resultados no Google DataStudio](https://github.com/fe-sts/SoulCode/blob/main/Projeto%20Mercado%20de%20Trabalho%20-%20Tecnologia/Apresenta%C3%A7%C3%A3o_DataStudio_Projeto_Final_Mercado_de_TrabalhoT.pdf)
+
+**Resultados:**
+- De acordo com o perfil da pesquisa, Estados Unidos, Índia, Alemanha, Reino Unido tiveram os maiores números de respondentes. Demonstra a demanda e desenvolvimento de cada mercado.
+- A proporção de graduados (geral) que atuam profissionalmente é de 80% e 94% desdes estavam empregados. Este cenário é semelhante no Brasil.
+- Grande desproporção entre de homens e mulheres. Predominancia de auto declarados brancos.
+- Tipos de desenvolvedor: Predominância de Fullstack, seguido por Cientista de Dados.
+- Google Trends Brasil: Predominância por pesquisas por Cientista de Dados.
+- Banco de Dados: Maior uitlização de MySQL, seguido por SQL Server e PostgreSQL.
+- Google Trends Brasil: Predominância por pesquisas por MySQL.
+- Serviços de Nuvem: Maior uitlização de AWS, seguido por Azure e Google Cloud Platform
+- Google Trends Brasil: Predominância por pesquisas por AWS.
+
+**SiSU**
+- Maior número de inscritos (geral), região sudeste - MG, RJ e SP seguido por BA.
+- Os cursos ligados diretamente a tecnologia da informação / desenvolvimentos de sistemas não figuram entre os mais procurados.
+- Maior número de inscritos (tecnologia), SP, RN, MG e RJ.
+- Os cursos mais buscados são:
+	- Análise e Desenvolvimento de Sistemas
+	- Ciência da Computação
+	- Eng. da Computação
 
