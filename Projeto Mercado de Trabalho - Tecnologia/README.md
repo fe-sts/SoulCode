@@ -77,4 +77,5 @@
 <div id='datastudio'/>
 
 ## Resultados e Conclusões: DataStudio
+- [Apresentação de resultados no Google DataStudio](https://github.com/fe-sts/SoulCode/blob/main/Projeto%20Mercado%20de%20Trabalho%20-%20Tecnologia/Apresenta%C3%A7%C3%A3o_DataStudio_Projeto_Final_Mercado_de_TrabalhoT.pdf)
 
