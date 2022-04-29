@@ -56,6 +56,10 @@
 <div id='etl'/>
 
 ## Processos de ETL
+- [Stack Overflow: análise e plotagens](https://github.com/fe-sts/SoulCode/blob/main/Projeto%20Mercado%20de%20Trabalho%20-%20Tecnologia/1PF_Pandas_analise_plotagem_stack_overflow_2021.ipynb)
+- [Stack Overflow: pandas, mongodb](https://github.com/fe-sts/SoulCode/blob/main/Projeto%20Mercado%20de%20Trabalho%20-%20Tecnologia/PF_Pandas_Mongo_stack_overflow_2021.ipynb)
+- [Stack Overflow: pyspark, sparksql](https://github.com/fe-sts/SoulCode/blob/main/Projeto%20Mercado%20de%20Trabalho%20-%20Tecnologia/PF_Pyspark_stack_overflow_2021.ipynb)
+- [SiSU](https://github.com/fe-sts/SoulCode/blob/main/Projeto%20Mercado%20de%20Trabalho%20-%20Tecnologia/PF_sisu_final_pynb.ipynb)
 <div id='gcp'/>
 
 ## Armazenamento: GCP Storage
